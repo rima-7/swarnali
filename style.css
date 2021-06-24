@@ -1,0 +1,33 @@
+.head{
+     position: relative;
+}
+.bn{
+    
+    cursor: pointer;
+    position: relative;
+    padding: 1rem 2rem;
+    border-radius: 3.75rem ;
+    line-height: 2.5 rem;
+    font-size: 2 rem;
+    font-weight: 600;
+    border: 3px solid black;
+    background-image: linear-gradient(180 deg, #71c9ce 0%, yellow 100%);
+    box-shadow: 2rem 0 3.5rem 0 #134d50 inset;
+}
+.btn{
+    cursor: pointer;
+    position: relative;
+    padding: 1rem 2rem;
+    border-radius:0rem 3.75rem 3.75rem 0rem ;
+    line-height: 2.5 rem;
+    font-size: 2 rem;
+    font-weight: 600;
+    border: 1px solid black;
+    background-image: linear-gradient(180 deg, #71c9ce 100%);
+    box-shadow: 1rem 0rem 5rem 0rem cadetblue inset;
+}
+.cal{background-image: linear-gradient(180 deg, #71c9ce 0%, yellow 100%);
+    box-shadow: 1rem 0 2.5rem 0 #134d50 inset;
+
+}
+    

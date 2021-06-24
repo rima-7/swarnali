@@ -1,0 +1,12 @@
+h1{
+  padding: 200px;
+  background-color: darkorchid;
+  text-align: center;
+}
+h1:hover{
+    background-color: bisque;
+    width: fit-content;
+}
+body{ 
+    background-color: darkcyan;
+}
